@@ -1,5 +1,6 @@
 # sales-analysis-
 this is my first time to trying sales analysis using python. this project is as sales analysis project in an offline gadget store.
+
 **In this project i have answered following questions using given data:-**
 ##### Question 1: What was the best month for sales? How much was earned that month? 
 ##### Question 2: What city sold the most product?
